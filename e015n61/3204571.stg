@@ -1,3 +1,13 @@
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 15.8984494 61.499285 247.4 112.43
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 15.9138989 61.4814232 189.9 113.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 15.9683155 61.4266266 159.45 113.99
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac 15.82819 61.38768 153.17 0
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 15.82783 61.38780 153.20 105.525
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 15.82747 61.38790 153.22 149.739
+OBJECT_SHARED Models/lib/SmHangar.ac 15.82800 61.38779 153.18 16.0743
+OBJECT_SHARED Models/lib/transformer3x3.ac 15.82738 61.38787 153.23 329.933
+OBJECT_SHARED Models/lib/transformer3x3.ac 15.82758 61.38801 153.27 25.0153
+# END dsf2stg
