@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 14.40566 62.78131 349.53 99.
 OBJECT_SHARED Models/lib/SmHangar.ac 14.40588 62.78106 349.35 10.81
 OBJECT_SHARED Models/lib/farm19x12.ac 14.40675 62.78062 348.74 10.18
 # END dsf2stg
+OBJECT_SHARED Models/Communications/mil-antena-118m.xml 14.104166667 62.794166667 473.04 180

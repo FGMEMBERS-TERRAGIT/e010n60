@@ -49,3 +49,4 @@ OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 13.43461 63.32814 315.88 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 13.43402 63.32796 315.90 0
 OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 13.43405 63.32814 315.89 0
 # END dsf2stg
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.410277778 63.257222222 535.81 180

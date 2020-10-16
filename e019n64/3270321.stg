@@ -3,3 +3,4 @@
 #
 OBJECT_SHARED Models/lib/hangarUL10x30.ac 19.72085 64.87421 300.08 76.37
 # END dsf2stg
+OBJECT_SHARED Models/Communications/radio-medium.xml 19.817777778 64.796111111 315.17 180
