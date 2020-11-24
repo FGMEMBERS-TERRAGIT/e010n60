@@ -4,3 +4,13 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 19.914428 60.140986 33.31 180
 OBJECT_SHARED Models/Airport/marker.ac 19.915022 60.141642 33.37 180
 OBJECT_SHARED Models/Airport/marker.ac 19.915153 60.141822 33.42 180
 OBJECT_SHARED Models/Airport/marker.ac 19.954408 60.186675 15.97 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/Norberttruck.xml 19.90815 60.12508 6.29 332.99
+OBJECT_SHARED Models/Transport/Norberttruck.xml 19.90823 60.12508 7.15 333.58
+OBJECT_SHARED Models/Transport/Norberttruck.xml 19.90833 60.12509 7.23 333.78
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 19.90786 60.12501 6.73 161.57
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 19.90739 60.12503 6.41 0
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 19.90745 60.12510 6.04 246.43
+# END dsf2stg
